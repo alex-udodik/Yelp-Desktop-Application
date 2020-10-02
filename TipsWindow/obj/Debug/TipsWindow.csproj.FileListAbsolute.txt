@@ -1,0 +1,106 @@
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csprojAssemblyReference.cache
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\MainWindow.g.cs
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\App.g.cs
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.cache
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.lref
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.exe.config
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.exe
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.pdb
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Buffers.dll
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Memory.dll
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\Npgsql.pdb
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\Npgsql.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Text.Json.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.ValueTuple.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\MainWindow.baml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.g.resources
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.Properties.Resources.resources
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.GenerateResource.cache
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.CopyComplete
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.exe
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (1)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.pdb
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.exe.config
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.exe
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.pdb
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Buffers.dll
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Memory.dll
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\Npgsql.pdb
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\Npgsql.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Text.Json.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\bin\Debug\System.ValueTuple.xml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csprojAssemblyReference.cache
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\MainWindow.g.cs
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\App.g.cs
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.cache
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.lref
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\MainWindow.baml
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.g.resources
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.Properties.Resources.resources
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.GenerateResource.cache
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.CopyComplete
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.exe
+C:\Users\ksuza\OneDrive\Desktop\team2-Aaron_dev_branch (2)\team2-Aaron_dev_branch\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.pdb
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.exe.config
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.exe
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\TipsWindow.pdb
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Buffers.dll
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Memory.dll
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\Npgsql.pdb
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\Npgsql.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Numerics.Vectors.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Text.Encodings.Web.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Text.Json.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\bin\Debug\System.ValueTuple.xml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csprojAssemblyReference.cache
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\MainWindow.g.cs
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\App.g.cs
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.cache
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.lref
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\MainWindow.baml
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.g.resources
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.Properties.Resources.resources
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.GenerateResource.cache
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.CoreCompileInputs.cache
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.csproj.CopyComplete
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.exe
+D:\GitLab\Tests\322\team2\CPTS451-Project\CPTS451-Project\TipsWindow\obj\Debug\TipsWindow.pdb
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\TipsWindow.exe.config
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\TipsWindow.exe
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\TipsWindow.pdb
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Buffers.dll
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Memory.dll
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\Npgsql.pdb
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\Npgsql.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Numerics.Vectors.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Text.Encodings.Web.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Text.Json.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\bin\Debug\System.ValueTuple.xml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.csprojAssemblyReference.cache
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\MainWindow.g.cs
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\App.g.cs
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.cache
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow_MarkupCompile.lref
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\MainWindow.baml
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.g.resources
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.Properties.Resources.resources
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.csproj.GenerateResource.cache
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.csproj.CoreCompileInputs.cache
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.csproj.CopyComplete
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.exe
+D:\GitLab\Tests\github 322\Yelp-Desktop-Application\TipsWindow\obj\Debug\TipsWindow.pdb

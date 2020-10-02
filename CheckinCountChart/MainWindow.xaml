@@ -1,0 +1,18 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckinCountChart"
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" x:Class="CheckinCountChart.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <ScrollViewer HorizontalAlignment="Left" Height="550" Margin="0,10,0,0" VerticalAlignment="Top" Width="784">
+            <chartingToolkit:Chart Title="Number of Check-ins per Month" x:Name="myChart" Height="499" Width="696" RenderTransformOrigin="0.498,0.515">
+                <chartingToolkit:ColumnSeries Title="# of Check-ins" HorizontalAlignment="Left" Height="405.6" VerticalAlignment="Top" Width="566.4" DependentValuePath="Value" IndependentValuePath="Key" ItemsSource="{Binding}"/>
+            </chartingToolkit:Chart>
+        </ScrollViewer>
+    </Grid>
+</Window>
+

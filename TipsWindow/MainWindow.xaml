@@ -1,0 +1,22 @@
+﻿<Window x:Class="TipsWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TipsWindow"
+        mc:Ignorable="d"
+        Title="Tips Window" Height="450" Width="800"
+        x:Name="TipWindow">
+    <Grid>
+        <TextBox x:Name="tipTextBox" HorizontalAlignment="Left" Height="49" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="681" RenderTransformOrigin="0.307,-0.405"/>
+        <GroupBox x:Name="businessTipCount" Header="Business Tips" HorizontalAlignment="Left" Height="224" Margin="10,64,0,0" VerticalAlignment="Top" Width="681">
+            <DataGrid x:Name="businessGrid" HorizontalAlignment="Left" Height="203" VerticalAlignment="Top" Width="671" Margin="0,0,-2,-2"/>
+        </GroupBox>
+        <GroupBox x:Name="friendTipCount" Header="Tips from friend who reviewd this business" HorizontalAlignment="Left" Height="116" Margin="10,293,0,0" VerticalAlignment="Top" Width="681">
+            <DataGrid x:Name="friendsTipGrid" HorizontalAlignment="Left" Height="100" Margin="0,0,-2,-7" VerticalAlignment="Top" Width="671"/>
+        </GroupBox>
+        <Button x:Name="addTipButton" Content="Add Tip" HorizontalAlignment="Left" Margin="705,10,0,0" VerticalAlignment="Top" Width="77" Height="49" Click="addTipButton_Clicked"/>
+        <Button x:Name="likeButton" Content="Like" HorizontalAlignment="Left" Margin="705,74,0,0" VerticalAlignment="Top" Width="75" Height="50" Click="LikeButton_Clicked"/>
+
+    </Grid>
+</Window>

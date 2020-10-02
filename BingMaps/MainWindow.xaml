@@ -1,0 +1,11 @@
+﻿<Window x:Class="BingMaps.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF" 
+        Title="MapWindow" Height="350" Width="525">
+
+    <Grid>
+        <m:Map x:Name="bingMap" CredentialsProvider="vsvdo4Lj9ewBdfYye74r~t_651WlW5GQlwwjzG0hqYw~Al7RgEqW4r3Qz6lk-3T3yf3YlVoIu0zKCdlxFTjinZFI6Xm_Wy6mMXZsqlt6qmaf"/>
+     
+    </Grid>
+</Window>
